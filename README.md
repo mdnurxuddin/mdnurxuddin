@@ -1,3 +1,6 @@
+<h1>HI, I Am Md Nur Uddin</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Front-End Development<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything<br>⚡ Fun fact I am Funny
 
