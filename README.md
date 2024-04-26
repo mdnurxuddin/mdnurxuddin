@@ -1,35 +1,67 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=Ifaz2611&label=Profile%20views&color=0e75b6&style=flat" alt="Ifaz2611" />
 
-<h1 align="center">Hi 👋, I'm Md Nur Uddin</h1>
-<h3 align="center">Architects of the virtual world</h3>
-<img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif</img>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ifaz+Md+Zahin!;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuruudinx&label=Profile%20views&color=0e75b6&style=flat" alt="nuruudinx" /> </p>
+<h3 align="center">A passionate Front-End Developer from Bangladesh </h3>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/nur_uddinx" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nur_uddinx?logo=twitter&style=for-the-badge" alt="https://twitter.com/nur_uddinx" /></a> </p>
+<br/>
+<h2 align="left">About me</h2>
+<h2 align="center">An experienced Frontend & Software Developer with a passion for coding and a strong background in JavaScript, React,Web & API Dev.</h2>
 
-- 🌱 I’m currently learning **Web Development**
 
-- 📝 I regularly write articles on [https://machineminds0.blogspot.com/](https://machineminds0.blogspot.com/)
+<h2 align="left">I code with</h2>
 
-- 📫 How to reach me **mdnuruddin2002@gmail.com**
+###
 
-- ⚡ Fun fact **I Am Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/nur_uddinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/nur_uddinx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdnuruddin04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdnuruddin04/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mdnur.nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdnur.nm" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nur.mahbub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nur.mahbub/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/nuruddin26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nuruddin26" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mdnuruddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mdnuruddin" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuruudinx&show_icons=true&locale=en&layout=compact" alt="nuruudinx" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuruudinx&show_icons=true&locale=en" alt="nuruudinx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuruudinx&" alt="nuruudinx" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ifaz2611)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ifaz2611)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ifaz2611)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifaz2611&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Ifaz2611)  
+
+###
+ 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+
+<br clear="both">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ifaz2611/Ifaz2611/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ifaz2611/Ifaz2611/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ifaz2611/Ifaz2611/output/github-contribution-grid-snake-dark.svg" />
+</picture>
