@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnurxuddin&label=Profile%20views&color=0e75b6&style=flat" alt="mdnurxuddin" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/nur_uddinx" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nur_uddinx?logo=twitter&style=for-the-badge" alt="https://twitter.com/nur_uddinx" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📝 I regularly write articles on [https://stratix24.blogspot.com/](https://stratix24.blogspot.com/)
