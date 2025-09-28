@@ -11,7 +11,6 @@
 I’m a passionate **Front-End Developer & Graphics Designer**. I love building **modern, responsive websites** and designing **stunning visuals** that bring ideas to life. I enjoy exploring new technologies and constantly improving my skills to deliver high-quality work.  
 
 - 🖥️ Learning: **Web Development (HTML, CSS, JavaScript, React, Tailwind CSS)**  
-- ✍️ Writing: [Stratix Blog](https://stratix24.blogspot.com/)  
 - 📫 Contact: **mdnuruddin2002@gmail.com**  
 - ⚡ Fun fact: I am funny 😄 and creative!  
 
